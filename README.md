@@ -94,9 +94,9 @@ Abre [http://localhost:8000](http://localhost:8000) en el navegador. También pu
 ## Autor
 
 📞 Contacto
-<p>Para más información sobre el proyecto o servicios de desarrollo web:</p>
-<p>Desarrollador: **JEB$DEV**</p>
-<p>Correo: j.e.b.inter@gmail.com</P>
+- Para más información sobre el proyecto o servicios de desarrollo web:
+- Desarrollador: **JEB$DEV**
+- Correo: j.e.b.inter@gmail.com
 
 
 **JEB$DEV —  Desarrollador FrontEnd - Javier Berchtold**
