@@ -88,9 +88,18 @@ Abre [http://localhost:8000](http://localhost:8000) en el navegador. También pu
 - Los favoritos se guardan en `localStorage` en el navegador actual. No se envían a una cuenta ni se sincronizan entre navegadores o dispositivos.
 - Borrar los datos del sitio en el navegador también puede borrar los favoritos guardados.
 
+
+📞 Contacto
+Para más información sobre el proyecto o servicios de desarrollo web:
+Proyecto: AppRecetas
+Desarrollador: **JEB$DEV**
+Correo: j.e.b.inter@gmail.com
+Tecnologías: HTML5, CSS3, JavaScript Vanilla
+
+
 ## Autor
 
-**JEB$DEV — Javier Berchtold**
+**JEB$DEV —  Desarrollador FrontEnd - Javier Berchtold**
 
 - [GitHub](https://github.com/JEB76-22)
 - [LinkedIn](https://www.linkedin.com/feed/)

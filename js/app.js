@@ -8,6 +8,11 @@ function iniciarApp() {
 
   const resultado = document.querySelector("#resultado");
 
+  const copiarCorreoButton = document.querySelector("#copiar-correo");
+  if (copiarCorreoButton) {
+    copiarCorreoButton.addEventListener("click", copiarCorreo);
+  }
+
   const favoritosDiv = document.querySelector(".favoritos");
   if (favoritosDiv) {
     obtenerFavoritos();
@@ -198,6 +203,49 @@ function iniciarApp() {
     toastBody.textContent = mensaje;
 
     toast.show();
+  }
+
+  async function copiarCorreo() {
+    const correo = document.querySelector("#correo-contacto").textContent.trim();
+    let copiado = false;
+
+    if (navigator.clipboard?.writeText) {
+      try {
+        await navigator.clipboard.writeText(correo);
+        copiado = true;
+      } catch {
+        copiado = copiarTextoAlternativo(correo);
+      }
+    } else {
+      copiado = copiarTextoAlternativo(correo);
+    }
+
+    mostrarToast(
+      copiado
+        ? "Correo copiado al portapapeles"
+        : `No se pudo copiar. Selecciona y copia: ${correo}`
+    );
+  }
+
+  function copiarTextoAlternativo(texto) {
+    const campoTemporal = document.createElement("TEXTAREA");
+    campoTemporal.value = texto;
+    campoTemporal.setAttribute("readonly", "");
+    campoTemporal.style.position = "fixed";
+    campoTemporal.style.left = "-9999px";
+    document.body.appendChild(campoTemporal);
+    campoTemporal.select();
+
+    let copiado = false;
+    try {
+      copiado = document.execCommand("copy");
+    } catch {
+      copiado = false;
+    } finally {
+      campoTemporal.remove();
+    }
+
+    return copiado;
   }
 
   function obtenerFavoritos() {
