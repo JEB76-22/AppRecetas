@@ -96,8 +96,8 @@ Abre [http://localhost:8000](http://localhost:8000) en el navegador. También pu
 📞 Contacto
 - Para más información sobre el proyecto o servicios de desarrollo web: 
 
-**JEB$DEV**
-**Desarrollador FrontEnd - Javier Berchtold**
+- **JEB$DEV**
+- **Desarrollador FrontEnd - Javier Berchtold**
 
 - [GitHub](https://github.com/JEB76-22)
 - [LinkedIn](https://www.linkedin.com/in/javier-berchtold-4270a7182/)
