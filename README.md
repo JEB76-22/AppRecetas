@@ -43,6 +43,10 @@ La aplicación obtiene las categorías y recetas desde [TheMealDB](https://www.t
 
 El proyecto no requiere un proceso de compilación ni gestores de paquetes: sus archivos estáticos se pueden servir directamente.
 
+## Demo
+
+[Ver AppRecetas en vivo](https://apprecetas26.netlify.app/)
+
 ## Estructura
 
 ```text
