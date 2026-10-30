@@ -89,15 +89,14 @@ Abre [http://localhost:8000](http://localhost:8000) en el navegador. También pu
 - Borrar los datos del sitio en el navegador también puede borrar los favoritos guardados.
 
 
-📞 Contacto
-Para más información sobre el proyecto o servicios de desarrollo web:
-Proyecto: AppRecetas
-Desarrollador: **JEB$DEV**
-Correo: j.e.b.inter@gmail.com
-Tecnologías: HTML5, CSS3, JavaScript Vanilla
 
 
 ## Autor
+
+📞 Contacto
+Para más información sobre el proyecto o servicios de desarrollo web:
+Desarrollador: **JEB$DEV**
+Correo: j.e.b.inter@gmail.com
 
 **JEB$DEV —  Desarrollador FrontEnd - Javier Berchtold**
 
