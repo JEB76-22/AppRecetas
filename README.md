@@ -1,6 +1,6 @@
 <div align="center">
 
-# AppRecetas
+# 🍽️ AppRecetas
 
 ### Descubre qué cocinar. Guarda lo que te encanta.
 
