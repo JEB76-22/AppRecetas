@@ -20,7 +20,7 @@ Una aplicación web ligera para explorar recetas por categoría, consultar sus i
 
 [Ver AppRecetas en vivo](https://apprecetas26.netlify.app/)
 
----
+
 
 ## Sobre el proyecto
 
