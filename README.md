@@ -94,15 +94,13 @@ Abre [http://localhost:8000](http://localhost:8000) en el navegador. También pu
 ## Autor
 
 📞 Contacto
-- Para más información sobre el proyecto o servicios de desarrollo web:
-- Desarrollador: **JEB$DEV**
-- Correo: j.e.b.inter@gmail.com
+- Para más información sobre el proyecto o servicios de desarrollo web: 
 
-
+**JEB$DEV**
 **Desarrollador FrontEnd - Javier Berchtold**
 
 - [GitHub](https://github.com/JEB76-22)
-- [LinkedIn](https://www.linkedin.com/feed/)
+- [LinkedIn](https://www.linkedin.com/in/javier-berchtold-4270a7182/)
 - [Contacto](mailto:j.e.b.inter@gmail.com)
 
 ## Licencia
