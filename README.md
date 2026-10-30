@@ -99,7 +99,7 @@ Abre [http://localhost:8000](http://localhost:8000) en el navegador. También pu
 - Correo: j.e.b.inter@gmail.com
 
 
-**JEB$DEV —  Desarrollador FrontEnd - Javier Berchtold**
+**Desarrollador FrontEnd - Javier Berchtold**
 
 - [GitHub](https://github.com/JEB76-22)
 - [LinkedIn](https://www.linkedin.com/feed/)
